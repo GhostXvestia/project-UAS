@@ -1,2 +1,0 @@
-# project-UAS
-Persiapan UAS
